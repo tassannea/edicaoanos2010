@@ -1,0 +1,41 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid darkcyan;
+}
+
+.center {
+    text-align: center;
+}
+
+h1{
+    color: cadetblue;
+}
+
+h3 {
+    color: darkcyan;
+}
+
+footer {
+    text-align: center;
+    color: grey;
+}
+
+h6 {
+    color: grey;
+}
